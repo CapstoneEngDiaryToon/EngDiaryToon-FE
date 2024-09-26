@@ -82,7 +82,7 @@ const Calendar = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <div className="calendar-container">
         <h1><strong>캘린더</strong></h1>
         <div className="calendar-header">
